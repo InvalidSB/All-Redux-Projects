@@ -1,0 +1,26 @@
+.container-wii .Btn{
+    width: fit-content;
+    font-size: 20px;
+
+}
+.down-cartpage{
+    width:90%;
+    /* background-color: tomato; */
+    margin:auto;
+    padding: 50px;
+}
+.down-cartpage .head h1{
+    font-size: 25px;
+}
+.head span{
+    font-size: 40px;
+    font-weight: bold;
+}
+.one-item{
+    width:55%;
+    margin:30px;
+    padding: 20px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
